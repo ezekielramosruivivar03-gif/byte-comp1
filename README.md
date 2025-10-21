@@ -11,7 +11,7 @@ the composer source code iyoh5jioe6u
 > }
 > ```
 
-**just the link** https://ezekielramosruivivar03-gif.github.io/byt-comp1
+**just the link** https://ezekielramosruivivar03-gif.github.io/byte-comp1
 ## that good
 the `sjkfopefiweofewjaopriw0rr02i4923i4p293i4990i42394`
 you skibidi

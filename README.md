@@ -24,4 +24,10 @@ git clone bytebeat composer
 npm install
 npm start
 ```
+
+and this 1:
+```
+gh repo clone ezekielramosruivivar03-gif/byte-comp1
+```
+
 thank you guys
